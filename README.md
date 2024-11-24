@@ -4,7 +4,7 @@
 A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide intelligent responses about insurance concepts. The system builds a knowledge graph from insurance documents and uses it to provide context-aware answers along with visual graph representations.
 
 <p align="left">
-    <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/images/HybridGraphRAG_image.png" width="600">
+    <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/HybridGraphRAG_image.png" width="600">
 </p>
 
 ## 🌟 Features
