@@ -1,0 +1,21 @@
+version: '3.12'
+
+services:
+  streamlit:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    environment:
+      - NEO4J_URI=neo4j+s://e52dbfe1.databases.neo4j.io
+      - NEO4J_USER=neo4j
+      - NEO4J_PASSWORD=${NEO4J_PASSWORD} 
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    networks:
+      - app_network
+   
+
+networks:
+  app_network:
+    driver: bridge

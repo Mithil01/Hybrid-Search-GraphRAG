@@ -1,0 +1,12 @@
+pydantic
+llama_index
+llama_index-graph_stores-neo4j
+openai
+networkx
+future
+rust
+plotly
+python-dotenv
+graspologic
+streamlit 
+pyvis
