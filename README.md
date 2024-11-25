@@ -15,7 +15,6 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
 - Interactive web interface built with Streamlit
 - Graph-based visualization of related concepts
 - Community-based summarization
-# Insurance Knowledge Graph Assistant
 
 ## Project Overview Steps:
 
