@@ -38,8 +38,8 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/insurance-knowledge-assistant.git
-cd insurance-knowledge-assistant
+git clone https://github.com/Mithil01/Hybrid-Search-GraphRAG.git
+cd Hybrid-Search-GraphRAG
 ```
 
 2. Set up environment variables:
@@ -110,7 +110,7 @@ insurance-knowledge-assistant/
 3. Docker Configuration:
 ```yaml
 # docker-compose.yml
-version: '3.8'
+version: '3.12.6'
 services:
   app:
     build: .
@@ -121,6 +121,13 @@ services:
       - NEO4J_USERNAME=${NEO4J_USERNAME}
       - NEO4J_PASSWORD=${NEO4J_PASSWORD}
       - OPENAI_API_KEY=${OPENAI_API_KEY}
+```
+- Expose secret keys from the terminal before the docker build.
+```
+   export NEO4J_USERNAME="your_neo4j_username"
+   export NEO4J_URI="your_neo4j_URI"
+   export NEO4J_PASSWORD="your_neo4j_password"
+   export OPENAI_API_KEY="your_OPENAI_API_KEY"
 ```
 
 ## 🚀 Usage
