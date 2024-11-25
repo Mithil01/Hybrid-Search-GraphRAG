@@ -20,6 +20,7 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
 <p align="left">
     <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/demo.gif" width="400" height = "400" alt="Insurance Assistant Demo">
 </p>
+
 ## Project Overview Steps:
 
 1. **Document Processing**
