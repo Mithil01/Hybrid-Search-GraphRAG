@@ -153,13 +153,6 @@ services:
       - NEO4J_PASSWORD=${NEO4J_PASSWORD}
       - OPENAI_API_KEY=${OPENAI_API_KEY}
 ```
-- Expose secret keys from the terminal before the docker build.
-```
-   export NEO4J_USERNAME="your_neo4j_username"
-   export NEO4J_URI="your_neo4j_URI"
-   export NEO4J_PASSWORD="your_neo4j_password"
-   export OPENAI_API_KEY="your_OPENAI_API_KEY"
-```
 
 ## 🚀 Usage
 
@@ -187,21 +180,10 @@ docker compose up
 4. Push to the branch
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👥 Authors
 
 - Mithil Gaonkar
 
-## 🙏 Acknowledgments
 
-- Neo4j for graph database
-- OpenAI for embeddings
-- LlamaIndex for graph processing
-- Streamlit for web interface
 
-## 📞 Support
 
-For support, email your-email@example.com or open an issue in the repository.
