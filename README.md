@@ -17,7 +17,7 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
 - Community-based summarization
   
 ## 🎥 Demo
-<img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/demo.gif" width="500" height = "500" alt="Insurance Assistant Demo">
+<img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/demo.gif" width="400" height = "400" alt="Insurance Assistant Demo">
 
 ## Project Overview Steps:
 
