@@ -7,9 +7,6 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
     <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/Arch.png" width="600">
 </p>
 
-## 🎥 Demo
-<img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/demo.gif" width="400" height = "400" alt="Insurance Assistant Demo">
-
 ## 🌟 Features
 
 - Question answering with context from knowledge graph
@@ -18,6 +15,9 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
 - Interactive web interface built with Streamlit
 - Graph-based visualization of related concepts
 - Community-based summarization
+  
+## 🎥 Demo
+<img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/demo.gif" width="400" height = "400" alt="Insurance Assistant Demo">
 
 ## Project Overview Steps:
 
