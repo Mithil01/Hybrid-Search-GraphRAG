@@ -7,8 +7,8 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
     <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/Arch.png" width="600">
 </p>
 
-🎥 Demo
-![Demo](https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/demo.gif)
+## 🎥 Demo
+<img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/demo.gif" width="800" alt="Insurance Assistant Demo">
 
 ## 🌟 Features
 
