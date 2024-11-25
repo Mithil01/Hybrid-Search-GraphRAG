@@ -15,11 +15,43 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
 - Interactive web interface built with Streamlit
 - Graph-based visualization of related concepts
 - Community-based summarization
+# Insurance Knowledge Graph Assistant
 
-## 🛠️ Architecture
+## Project Overview Steps:
+
+1. **Document Processing**
+   - Load insurance documents from `./book` directory
+   - Split into semantic chunks using LlamaIndex
+   - Generate embeddings using OpenAI
+
+2. **Knowledge Graph Construction**
+   - Extract entities and relationships using GPT-4
+   - Build graph structure in Neo4j
+   - Store entity embeddings for similarity search
+
+3. **Graph-RAG Pipeline**
+   - Process user query
+   - Perform hybrid search (vector + keyword)
+   - Traverse graph for related concepts
+   - Generate response using GPT-4
+
+4. **Visualization**
+   - Create interactive network graph
+   - Show related concepts
+   - Display entity relationships
+
+## Pipeline Flow:
+
 <p align="left">
     <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/Graphrag_img.png" width="1000">
 </p>
+
+
+
+
+
+## 🛠️ Architecture
+
 
 - **Frontend**: Streamlit
 - **Database**: Neo4j Aura
