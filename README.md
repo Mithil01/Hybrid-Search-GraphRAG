@@ -185,7 +185,7 @@ docker compose up
 4. Push to the branch
 5. Open a Pull Request
 
-## 👥 Authors
+## Author
 
 - Mithil Gaonkar
 
