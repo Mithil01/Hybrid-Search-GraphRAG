@@ -65,7 +65,7 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
 
 ## 📋 Prerequisites
 
-- Python 3.9+
+- Python 3.12
 - Docker and Docker Compose
 - Neo4j Aura Account
 - OpenAI API Key
@@ -92,7 +92,7 @@ export NEO4J_PASSWORD='your_neo4j_password'
 3. Pull and run using Docker:
 ```bash
 # Pull the Docker image
-docker pull your-docker-image:latest
+docker pull hybrid-graphrag
 
 # Run with Docker Compose
 docker compose up --build
