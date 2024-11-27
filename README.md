@@ -44,7 +44,7 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
    - Show related concepts
    - Display entity relationships
 
-## Pipeline Flow:
+## Indexing Pipeline Flow:
 
 <p align="left">
     <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/Graphrag_img.png" width="1000">
