@@ -16,7 +16,7 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
 - Graph-based visualization of related concepts
 - Community-based summarization
   
-## RAG Pipeline
+## Graph-RAG Pipeline
 
 <p align="left">
     <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/Arch.png" width="600">
