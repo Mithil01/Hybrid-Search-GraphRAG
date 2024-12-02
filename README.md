@@ -1,12 +1,5 @@
 
 # Hybrid-Search based Insurance Knowledge Graph Assistant 🏥
-<div align="left">
-    <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/demo.gif" 
-         width="60%" 
-         max-width="400px"
-         height="500px" 
-         alt="Insurance Assistant Demo">
-</div>
 <p align="left">
     <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/demo.gif" width="600" height = "500" alt="Insurance Assistant Demo">
 </p>
