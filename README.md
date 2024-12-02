@@ -16,11 +16,6 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
 - Graph-based visualization of related concepts
 - Community-based summarization
   
-## 🎥 Demo
-<p align="left">
-    <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/demo.gif" width="600" height = "500" alt="Insurance Assistant Demo">
-</p>
-
 ## RAG Pipeline
 
 <p align="left">
