@@ -18,7 +18,7 @@ A RAG-based question-answering system that uses LlamaIndex and Neo4j to provide 
 ## Graph-RAG Pipeline
 
 <p align="left">
-    <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/Arch.png" width="700" height='400'>
+    <img src="https://github.com/Mithil01/Hybrid-Search-GraphRAG/blob/main/img/Arch.png" width="600" height='400'>
 </p>
 
 ## Project Overview Steps:
